@@ -28,7 +28,7 @@ public class DataBasePreprocess {
        
         //access.deleteKey("uniq_end_statuses_backup", "status_id",badStatuses);
         
-        System.out.println("complete£¡ ");
+        System.out.println("complete!");
        
         
     }
